@@ -1,1 +1,1 @@
-Ben Kosero, 16 yaşındayım ve ankarada yaşıyorum. Linux kullanıyorum.
+Kosero, 16 yaşındayım, go ve python biliyorum.
