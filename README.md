@@ -1,1 +1,1 @@
-Kosero, 16 yaşındayım, go ve python biliyorum.
+Rust
