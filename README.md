@@ -2,7 +2,5 @@ Hello, I'm Kosero. I'm 18 years old and I have a deep passion for computer scien
 
 Discord: ```kosero_```
 <div align="center">
-<p>
   ![](https://komarev.com/ghpvc/?username=kosero&style=flat&color=313131&label=views)
-</p>
 </div>
