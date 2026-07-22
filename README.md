@@ -14,6 +14,7 @@
 **Tools & Engines**
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat&logo=raylib&logoColor=white)
 ![SDL](https://img.shields.io/badge/SDL-173354?style=flat&logo=simple-directmedia-layer&logoColor=white)
